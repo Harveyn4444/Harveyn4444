@@ -1,4 +1,7 @@
-### Hi there 👋
+Aerospace Engineering Student with an interest in electronics and space systems
+
+- Apart of @PerytonSpace
+- 🔭 I’m currently working on Mach 24 competiton and a Weather Balloon Project
 
 <!--
 **Harveyn4444/Harveyn4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
