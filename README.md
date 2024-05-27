@@ -1,6 +1,6 @@
 Aerospace Engineering Student with an interest in electronics and space systems
 
-- Apart of @PerytonSpace and @SurreyEARS
+- Apart of [PerytonSpace](https://github.com/PerytonSpace) and [SurreyEARS](https://github.com/SurreyEARS)
 - 🔭 I’m currently working on Mach 24 competiton and a Weather Balloon Project
 
 <!--
