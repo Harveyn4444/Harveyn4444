@@ -1,4 +1,4 @@
-Aerospace Engineering Student with an interest in electronics and space systems
+Space Engineering Student with an interest in electronics and space systems
 
 - Apart of [PerytonSpace](https://github.com/PerytonSpace) and [SurreyEARS](https://github.com/SurreyEARS)
 
